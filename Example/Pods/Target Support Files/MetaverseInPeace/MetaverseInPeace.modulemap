@@ -1,0 +1,6 @@
+framework module MetaverseInPeace {
+  umbrella header "MetaverseInPeace-umbrella.h"
+
+  export *
+  module * { export * }
+}

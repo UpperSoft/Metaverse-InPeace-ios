@@ -1,0 +1,22 @@
+{
+  "name": "MetaverseInPeace",
+  "version": "0.1.0",
+  "summary": "A short description of MetaverseInPeace.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/alvaro2277/MetaverseInPeace",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "alvaro2277": "alvaro@uppersoft.com.br"
+  },
+  "source": {
+    "git": "https://github.com/alvaro2277/MetaverseInPeace.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MetaverseInPeace/Classes/**/*"
+}
